@@ -16,7 +16,7 @@ body
     width: 39vw;
     margin:auto auto;
     /* background-color: red; */
-    background: url(/clock.png) no-repeat center center/cover;
+    background: url(clock.png) no-repeat center center/cover;
     
 }
 
