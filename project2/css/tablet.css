@@ -1,0 +1,51 @@
+
+*
+{
+    box-sizing: border-box;
+}
+
+#clients{
+    overflow: hidden;
+}
+
+#navbar
+{
+    align-items: center;
+    justify-content: center;
+}
+
+#services
+{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.hPrimary
+{
+    font-size: 30px;
+}
+
+#home
+{
+    height: auto;
+    padding: 58px;
+}
+
+#contactBox form {
+    width: 55%;
+}
+
+#clients
+{
+    flex-wrap: wrap;
+}
+
+#clients img {
+    height: 130px;
+}
+
+.clientItem
+{
+    padding: 20px;
+    margin: 10px;
+}
